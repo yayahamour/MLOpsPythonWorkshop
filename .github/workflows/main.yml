@@ -10,12 +10,12 @@ env:
   PNPM_VERSION: 8.5.1
   PYTHON_VERSION: 3.10.13
   NODE_VERSION: 18
-  AZURE_RESOURCE_GROUP_NAME: "azure-ml-yolo"
+  AZURE_RESOURCE_GROUP_NAME: "azure-ml-yayahamour"
   AZURE_LOCATION: "northeurope"
-  AZURE_ML_WORKSPACE_NAME: "cats-dogs-yola"
-  AZURE_WEBAPP_NAME: "cats-dogs-yola"
+  AZURE_ML_WORKSPACE_NAME: "cats-dogs-yayahamour"
+  AZURE_WEBAPP_NAME: "cats-dogs-yayahamour"
   DELETE_WEBAPP: "false"
-  DOCKER_IMAGE_NAME: "guillaumechervetlunique/mlopspython"
+  DOCKER_IMAGE_NAME: "guillaumechervetlunique/mlopspython-yayahamour"
 
 permissions:
   id-token: write
